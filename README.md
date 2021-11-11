@@ -4,18 +4,18 @@ Identify equal field of array whether it is equal or not.
 
 ## Installation
 
-npm i equalString --save
+npm i equalstring --save
 
 Then...
 
 ```
 
-import {equalString} from 'equalString'
+import {equalstring} from 'equalstring'
 
  var firstarray=["a","d","e","c","f"]
  var secondarray=["c","e","f","d","a"]
 
- equalString(firstarray,secondarray)
+ equalstring(firstarray,secondarray)
 
  ```
 

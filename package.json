@@ -1,6 +1,6 @@
 {
   "name": "equalstring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "find array of string field is equal or not",
   "main": "index.js",
   "scripts": {

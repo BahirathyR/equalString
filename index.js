@@ -1,6 +1,6 @@
 
-function equalString(firstarray,secondarray){
+function equalstring(firstarray,secondarray){
 console.log(JSON.stringify(firstarray.sort())===JSON.stringify(secondarray.sort()))
 }
 
-module.exports.equalString=equalString;
+module.exports.equalstring=equalstring;
